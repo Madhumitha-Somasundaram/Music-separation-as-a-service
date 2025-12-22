@@ -1,5 +1,5 @@
 ## Music-Separation-as-a-Service (MSaaS)
-It harnesses  source separation through Demucs to precisely isolate vocals and instruments from audio tracks. Building on techniques used by Spotify and Apple Music, it delivers enterprise-grade audio processing through a scalable, Kubernetes architecture. This enables streaming services, music production studios, and digital platforms to offer enhanced experiences like professional-quality karaoke, remixing tools, and interactive music features. By bringing advanced audio manipulation to the cloud, SoundSieve equips businesses to meet rising demand for AI-driven audio innovation.
+It harnesses  source separation through Demucs to precisely isolate vocals and instruments from audio tracks. Building on techniques used by Spotify and Apple Music, it delivers enterprise-grade audio processing through a scalable, Kubernetes architecture. This enables streaming services, music production studios, and digital platforms to offer enhanced experiences like professional-quality karaoke, remixing tools, and interactive music features. By bringing advanced audio manipulation to the cloud, it equips businesses to meet rising demand for AI-driven audio innovation.
 
 # Music Separation
 
